@@ -1,4 +1,4 @@
-// weatherController.js
+
 import axios from "axios";
 
 export const fetchWeather = async (req,res) => {
